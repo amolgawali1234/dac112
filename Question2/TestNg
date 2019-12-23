@@ -1,0 +1,15 @@
+Unit Testing:
+>Unit Testing is nothing but the Testing Methodology which is done At the Developer Level
+>Unit Testing is Done After the Coding Phase
+>Unit Testing is Must Done by the Developer Before and After the Integration
+>Why is it imp?
+Because At the Organizaton Level We Are the Only developer. different develoer write a code in differnet Standard so it might give error at the time of integration
+So it is good to have unit testing before the Code Integration
+
+and Same for after the Itegration if we do the unit testing then it is easier to trace the error
+
+
+
+
+
+
